@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage": "http://qnemes.github.io/streaming-app-client",
+  "homepage": "https://qnemes.github.io/streaming-app-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
